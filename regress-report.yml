@@ -9,10 +9,6 @@ test-cases:
   status: pass
 
 - summary: |
-    Поиск товара 
-  status:  pass
-
-- summary: |
     Фильтрация по ключевому слову
   status: fail
 
